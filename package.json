@@ -1,0 +1,43 @@
+{
+  "name": "douyin-vue",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@icon-park/vue": "^1.4.2",
+    "@vime/core": "^5.3.3",
+    "@vime/vue": "^5.3.3",
+    "axios": "^0.27.2",
+    "core-js": "^3.6.5",
+    "vant": "^2.12.50",
+    "vue": "^2.6.11",
+    "vue-clipboard2": "^0.3.3",
+    "vue-router": "^3.2.0",
+    "vue-socket.io": "^3.0.10",
+    "vue-video-player": "5",
+    "vuex": "^3.4.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.15",
+    "@vue/cli-plugin-eslint": "~4.5.15",
+    "@vue/cli-plugin-router": "~4.5.15",
+    "@vue/cli-plugin-vuex": "~4.5.15",
+    "@vue/cli-service": "~4.5.15",
+    "@vue/eslint-config-prettier": "^6.0.0",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^6.7.2",
+    "eslint-plugin-prettier": "^3.3.1",
+    "eslint-plugin-vue": "^6.2.2",
+    "less": "3",
+    "less-loader": "5",
+    "prettier": "^2.2.1",
+    "sass": "^1.26.5",
+    "sass-loader": "^8.0.2",
+    "vconsole": "^3.14.6",
+    "vue-template-compiler": "^2.6.11"
+  }
+}
